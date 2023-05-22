@@ -31,12 +31,12 @@
 <p>Acredito que é essencial assumir riscos respaldados por evidências e dados para alcançar o sucesso.</p>
 
 <p><b>Meus valores</b></p>
-    <li>-Neutralidade</li>
-    <li>- Empatia</li>
-    <li>- A equipe</li>
-    <li>- Agilidade</li>
-    <li>- Excelência</li>
-    <li>- Ensinar melhor</li>
-    <li>- Data-driven</li>
-    <li>- Primeiro o customer</li>
+    <li>Neutralidade</li>
+    <li>Empatia</li>
+    <li>A equipe</li>
+    <li>Agilidade</li>
+    <li>Excelência</li>
+    <li>Ensinar melhor</li>
+    <li>Data-driven</li>
+    <li>Primeiro o customer</li>
 </p>
