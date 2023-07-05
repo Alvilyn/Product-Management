@@ -21,6 +21,11 @@
 <h2>Blog "Experiências sobre Produtos"</h2>
 <p>É um blog aficionado sobre Gestão de Produtos, escrito pela Alvilyn, sobre experiências no contexto de Latinoamérica. Este blog compartilha reflexões, abordagens e ferramentas da jornada de produtos digitais nas especialidades de dados e marketing de conteúdos. São fundamentalmente aprendizagens, conhecimentos e experiências para ajudar outros criar produtos bem sucedidos.</p>
 
+<p>Quais são as dificuldades que podem enfrentar as equipes na criação de um produto de dados?</p>
+<p>Knowledge Graph</p>
+<p>Vantagens do Graph Analytics</p>
+<p>Como utilizar dados para tomar decisões estratégicas na Gestão de Produtos</p>
+
 <br>
 
 <h2>Princípios</h2>
