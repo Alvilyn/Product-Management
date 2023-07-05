@@ -21,10 +21,10 @@
 <h2>Blog "Experiências sobre Produtos"</h2>
 <p>É um blog aficionado sobre Gestão de Produtos, escrito pela Alvilyn, sobre experiências no contexto de Latinoamérica. Este blog compartilha reflexões, abordagens e ferramentas da jornada de produtos digitais nas especialidades de dados e marketing de conteúdos. São fundamentalmente aprendizagens, conhecimentos e experiências para ajudar outros criar produtos bem sucedidos.</p>
 
-<p>Quais são as dificuldades que podem enfrentar as equipes na criação de um produto de dados?</p>
-<p>Knowledge Graph</p>
-<p>Vantagens do Graph Analytics</p>
-<p>Como utilizar dados para tomar decisões estratégicas na Gestão de Produtos</p>
+* 💣 [Quais são as dificuldades que podem enfrentar as equipes na criação de um produto de dados?](https://www.linkedin.com/pulse/quais-s%2525C3%2525A3o-dificuldades-que-podem-enfrentar-equipes-na-bravo-lowe%3FtrackingId=C0pFeoZ8Jt2lcTre9sM7rQ%253D%253D/?trackingId=C0pFeoZ8Jt2lcTre9sM7rQ%3D%3D)
+* 🔡 [Knowledge Graph](https://www.linkedin.com/posts/alvilynbravo_knowledge-graph-activity-7022003931513786368-nuGE/?utm_source=share&utm_medium=member_desktop)
+* 🦾 [Vantagens do Graph Analytics](https://www.linkedin.com/posts/alvilynbravo_graphanalytics-dataanalytics-predictiveanalytics-activity-7018729161884090369-dp67?utm_source=share&utm_medium=member_desktop)
+* 📊 [Como utilizar dados para tomar decisões estratégicas na Gestão de Produtos](https://www.linkedin.com/posts/alvilynbravo_dados-para-tomada-de-decis%C3%B5es-em-gest%C3%A3o-de-activity-7082345783273955328-fhyX?utm_source=share&utm_medium=member_desktop)
 
 <br>
 
