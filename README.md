@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Alvilyn/product-management">
-    assets/images/encabezado1
+    /../main/assets/images/encabezado1
   </a>
   <h1 align="center">Product Management</h1>
 </p>
