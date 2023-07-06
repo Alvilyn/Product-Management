@@ -53,4 +53,4 @@
 
 <br>
 
-<h3>Meta Project</h3>
+<h3>Meta Project</h3> [https://github.com/Alvilyn/product-management/blob/main/Meta%20Project/%5BPM%5D%20Projeto%20-%20Aplicativo%20Fitnes%20Meta.pdf]
