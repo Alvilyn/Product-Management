@@ -48,4 +48,9 @@
 
 <br>
 
+<h2>Projetos</h2>
+<p>Nestes projetos, concentrei-me em traduzir a visão estratégica em produtos e recursos tangíveis, para dar conhecer com detalhes os processos e ferramentas envolvidas para à identificação de necessidades do usuário, análise de mercado, definição de metas, bem como a priorização de recursos e funcionalidades.</p>
 
+<br>
+
+<h3>Meta Project</h3>
