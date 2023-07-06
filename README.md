@@ -9,7 +9,27 @@
 
 <br>
 
-<h4>Professional em liderança de equipes multiculturais e sucedidos no desenvolvimento de produtos digitais. Alvilyn tem experiência na gestão de produtos que abordam metodologias do desgin thinking, ágeis e sprint, que trabalham de forma colaborativa, visando entregas de alta qualidade. Integra a comunicação, o design e a pesquisa. O enfoque da Alvilyn são o desacoplamiento, a criatividade e um alto alinhamento. Se todos estamos juntos e afins com os porques das metas e tomadas de decisão, garantizamos o sucesso.</h3>
+<h4>Professional que tem liderado equipes multiculturais e sucedidos no desenvolvimento de produtos digitais. Alvilyn tem experiência na gestão de produtos que abordam metodologias do desgin thinking, ágeis e sprint, que trabalham de forma colaborativa, visando entregas de alta qualidade. Integra a comunicação, o design e a pesquisa. O enfoque da Alvilyn são o desacoplamiento, a criatividade e um alto alinhamento. Se todos estamos juntos e afins com os porques das metas e tomadas de decisão, garantizamos o sucesso.</h3>
+
+<br>
+
+<h2>Princípios</h2>
+<p>Valorizo a empatia e a perspectiva, pois penso que os negocios são feitos por pessoas e entender elas é essencial para o sucesso.</p>
+
+<p>Também acredito que entender diferentes pontos de vista nos ajuda a criar soluções mais inclusivas e impactantes.</p>
+
+<p>Acredito que é essencial assumir riscos respaldados por evidências e dados para alcançar o sucesso.</p>
+
+<p><b>Meus valores</b></p>
+    <li>Neutralidade</li>
+    <li>Empatia</li>
+    <li>A equipe</li>
+    <li>Agilidade</li>
+    <li>Excelência</li>
+    <li>Ensinar melhor</li>
+    <li>Data-driven</li>
+    <li>Primeiro o customer</li>
+</p>
 
 <br>
 
@@ -28,20 +48,4 @@
 
 <br>
 
-<h2>Princípios</h2>
-<p>Valorizo a empatia e a perspectiva, pois penso que os negocios são feios por pessoas e entender elas faz é essencial para o sucesso.</p>
 
-<p>Também acredito que entender diferentes pontos de vista nos ajuda a criar soluções mais inclusivas e impactantes.</p>
-
-<p>Acredito que é essencial assumir riscos respaldados por evidências e dados para alcançar o sucesso.</p>
-
-<p><b>Meus valores</b></p>
-    <li>Neutralidade</li>
-    <li>Empatia</li>
-    <li>A equipe</li>
-    <li>Agilidade</li>
-    <li>Excelência</li>
-    <li>Ensinar melhor</li>
-    <li>Data-driven</li>
-    <li>Primeiro o customer</li>
-</p>
