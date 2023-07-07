@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Alvilyn/product-management">
-    assets/images/encabezado1
+    ![Texto alternativo](enlace a la imagen)
   </a>
   <h1 align="center">Product Management</h1>
 </p>
