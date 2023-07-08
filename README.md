@@ -1,8 +1,8 @@
+![banner](https://github.com/Alvilyn/product-management/images/Banner_Github.png)
+
 <p align="center">
   <a href="https://github.com/Alvilyn/product-management"></a>
-  
-  ![banner](https://github.com/Alvilyn/product-management/images/Banner_Github.png)
-  
+    
   <h1 align="center">Product Management</h1>
 </p>
 <br>
