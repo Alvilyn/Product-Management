@@ -40,8 +40,6 @@
 
 <br>
 
-![banner](https://github.com/Alvilyn/product-management/images/Banner_Github.png)
-
 <h2>Blog "Experiências sobre Produtos"</h2>
 <p>É um blog aficionado sobre Gestão de Produtos, escrito pela Alvilyn, sobre experiências no contexto de Latinoamérica. Este blog compartilha reflexões, abordagens e ferramentas da jornada de produtos digitais nas especialidades de dados e marketing de conteúdos. São fundamentalmente aprendizagens, conhecimentos e experiências para ajudar outros criar produtos bem sucedidos.</p>
 
