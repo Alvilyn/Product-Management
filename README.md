@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://github.com/Alvilyn/product-management"></a>
-  <img src="../image-avatar.png"/>
+  <img src="./images/Banner_Github.png"/>
   
   <h1 align="center">Product Management</h1>
 </p>
