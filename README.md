@@ -49,16 +49,16 @@
 
 <br>
 
-<h2>Projects</h2>
+# Projects
 <p>Nestes projetos, concentrei-me em traduzir a visão estratégica em produtos e recursos tangíveis, para dar conhecer com detalhes os processos e ferramentas envolvidas para à identificação de necessidades do usuário, análise de mercado, definição de metas, bem como a priorização de recursos e funcionalidades.</p>
 
 <br>
 
-# Meta Project
+## Meta Project
 
 <image src="./images/Banner_Meta_Project.png">
 
-<h3>[Aplicativo Fitnes](https://github.com/Alvilyn/product-management/blob/main/Meta%20Project/%5BPM%5D%20Projeto%20-%20Aplicativo%20Fitnes%20Meta.pdf)</h3>
+## [Aplicativo Fitnes](https://github.com/Alvilyn/product-management/blob/main/Meta%20Project/%5BPM%5D%20Projeto%20-%20Aplicativo%20Fitnes%20Meta.pdf)
 
 <h4>Contexto: Introdução</h4>
 <p>Se tem a seguinte demanda no Meta. Faz sentido a gente montar um aplicativo fitness para o Meta? Qual é o objetivo dessa demanda? E essa demanda faz sentido para a empresa? Para entender a necessidade foi feita uma pesquisa de mercado sobre o índice de sedentarismo e o uso de aplicativos fitness.
