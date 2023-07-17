@@ -64,11 +64,11 @@
 <h4>Contexto: Introdução</h4>
 <p>Se tem a seguinte demanda no Meta. Faz sentido a gente montar um aplicativo fitness para o Meta? Qual é o objetivo dessa demanda? E essa demanda faz sentido para a empresa? Para entender a necessidade foi feita uma pesquisa de mercado sobre o índice de sedentarismo e o uso de aplicativos fitness.
   
-> Uma publicação na Folha diz, “O Brasil é um dos países mais sedentários da América Latina”. Segundo a OMS, pelo menos 47% dos brasileiros são considerados fisicamente inativos.
-> A CNN Brasil diz, “Mais de 60% dos brasileiros estiveram sedentários durante a pandemia, diz estudo”.
-> Folha de São Paulo diz, “Falta de atividade física prejudica 47% da população do Brasil”.
-> O Gympass lançou um reporte no inicio da pandemia, que relatava um aumento do 35% do número de pessoas que tentaram fazer exercício em casa, e dessas pessoas o 40% não sentiram os mesmos resultados.
-> A International Health, Racquet & Sportclub Association, diz que em 2021 o mercado fitness chegou a 126 bilhões de dólares, só o mercado norte americano chegou até 3 bilhões e o mercado brasileiro chegou até 2 bilhões.
+> - Uma publicação na Folha diz, “O Brasil é um dos países mais sedentários da América Latina”. Segundo a OMS, pelo menos 47% dos brasileiros são considerados fisicamente inativos.
+> - A CNN Brasil diz, “Mais de 60% dos brasileiros estiveram sedentários durante a pandemia, diz estudo”.
+> - Folha de São Paulo diz, “Falta de atividade física prejudica 47% da população do Brasil”.
+> - O Gympass lançou um reporte no inicio da pandemia, que relatava um aumento do 35% do número de pessoas que tentaram fazer exercício em casa, e dessas pessoas o 40% não sentiram os mesmos resultados.
+> - A International Health, Racquet & Sportclub Association, diz que em 2021 o mercado fitness chegou a 126 bilhões de dólares, só o mercado norte americano chegou até 3 bilhões e o mercado brasileiro chegou até 2 bilhões.
 <br>
 Lembremos que um dos objetivos do Meta é criar comunidades e que as pessoas se aproximem. No Facebook hoje existem muitos grupos, e a nossa maior ferramenta que contempla o maior nível de engajamento de usuários, são os grupos de Facebook. Possivelmente, este grupo de pessoas que não enxergaram resultados treinando sozinhos usam os aplicativos do Meta, e são uma parcela dos usuários para o aplicativo fitness. Gostaríamos de saber como essas pessoas estão usando os aplicativos do Meta? E se, esse mercado é significativo?</p>
 
