@@ -60,7 +60,7 @@
 
 [Aplicativo Fitnes](https://github.com/Alvilyn/product-management/blob/main/Meta%20Project/%5BPM%5D%20Projeto%20-%20Aplicativo%20Fitnes%20Meta.pdf)
 
-<h4>Contexto: Introdução</h4>
+<h4>Contexto</h4>
 <p>Se tem a seguinte demanda no Meta. Faz sentido a gente montar um aplicativo fitness para o Meta? Qual é o objetivo dessa demanda? E essa demanda faz sentido para a empresa? Para entender a necessidade foi feita uma pesquisa de mercado sobre o índice de sedentarismo e o uso de aplicativos fitness.
   
 - Uma publicação na Folha diz, “O Brasil é um dos países mais sedentários da América Latina”. Segundo a OMS, pelo menos 47% dos brasileiros são considerados fisicamente inativos.
