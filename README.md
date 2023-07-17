@@ -55,8 +55,11 @@
 <br>
 
 <h3>Meta Project</h3>
+
+<p align="center">
 <a href="https://github.com/Alvilyn/product-management"></a>
 <img src="./images/Banner_Meta_Project.png/>
+</p>
 
 [Aplicativo Fitnes](https://github.com/Alvilyn/product-management/blob/main/Meta%20Project/%5BPM%5D%20Projeto%20-%20Aplicativo%20Fitnes%20Meta.pdf)
 
