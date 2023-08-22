@@ -46,6 +46,9 @@
 * 🔡 [Knowledge Graph](https://www.linkedin.com/posts/alvilynbravo_knowledge-graph-activity-7022003931513786368-nuGE/?utm_source=share&utm_medium=member_desktop)
 * 🦾 [Vantagens do Graph Analytics](https://www.linkedin.com/posts/alvilynbravo_graphanalytics-dataanalytics-predictiveanalytics-activity-7018729161884090369-dp67?utm_source=share&utm_medium=member_desktop)
 * 📊 [Como utilizar dados para tomar decisões estratégicas na Gestão de Produtos](https://www.linkedin.com/posts/alvilynbravo_dados-para-tomada-de-decis%C3%B5es-em-gest%C3%A3o-de-activity-7082345783273955328-fhyX?utm_source=share&utm_medium=member_desktop)
+* 📌 [Definindo 5 métricas relevantes para medir o sucesso dos produtos digitais](https://www.linkedin.com/pulse/definindo-5-m%25C3%25A9tricas-relevantes-para-medir-o-sucesso-dos-bravo-lowe/?trackingId=%2Fyorhz26TdOMfCSU4Jkw5g%3D%3D)
+* 📝 [Por que é importante fazer continuamente UX Research na visão estratégica do produto](https://www.linkedin.com/pulse/por-que-%25C3%25A9-importante-fazer-continuamente-ux-research-na-bravo-lowe/?trackingId=q74z8LWZTvm283CJMSOsNw%3D%3D)
+* 👥 [Navegando nas diferenças entre stakeholders: o papel estratégico do gestor de produtos](https://www.linkedin.com/pulse/navegando-nas-diferen%25C3%25A7as-entre-stakeholders-o-papel-do-bravo-lowe/?trackingId=p1BoF2MZQwGxcQJeLzb%2BeQ%3D%3D)
 
 <br>
 
