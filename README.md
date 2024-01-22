@@ -10,7 +10,7 @@
 
 <br>
 
-<h4>Professional que tem liderado equipes multiculturais e sucedidos no desenvolvimento de produtos digitais. Alvilyn tem experiência na gestão de produtos que abordam metodologias do desgin thinking, ágeis e sprint, que trabalham de forma colaborativa, visando entregas de alta qualidade. Integra a comunicação, o design e a pesquisa. O enfoque da Alvilyn são o desacoplamiento, a criatividade e um alto alinhamento. Se todos estamos juntos e afins com os porques das metas e tomadas de decisão, garantizamos o sucesso.</h3>
+<h4>Profissional em gestão de produtos e projetos, recentemente focada em produtos de dados e marketing digital, com especialização na experiência do usuário, especialmente em serviços de saúde. Destaca-se pelo trabalho colaborativo e pela aplicação de metodologias ágeis, como Scrum e Kanban, utilizando ferramentas de gestão de projetos como Jira, Confluence, Power Apps e Google Workspace. Participação ativa em soluções, com acompanhamento de OKR, KPI e métricas de desempenho e marketing, utilizando ferramentas como SQL, Java Script, Python de Business Intelligence, automações e integrações de dados, Big Data, Cloud Computing. Comprometida com a melhoria contínua do produto, priorizando backlog e funcionalidades, além da gestão eficiente de stakeholders. Baseia-se em habilidades sólidas em gestão de pessoas, comunicação assertiva, trabalho em equipe, foco em resultados e inovação.</h3>
 
 <br>
 
